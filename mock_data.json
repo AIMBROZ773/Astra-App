@@ -1,0 +1,15 @@
+{
+  "match_id": "921682945339935151",
+  "duration_seconds": 822,
+  "winning_team": "red",
+  "teams": {
+    "blue": [
+      { "player_id": "AIMBROZ", "hero": "Eudora", "kills": 9, "deaths": 2, "assists": 8, "gold": 10677, "damage_dealt": 56399, "teamfight_participation": 71 },
+      { "player_id": "beymax", "hero": "Fredrinn", "kills": 6, "deaths": 2, "assists": 10, "gold": 10939, "damage_dealt": 39027, "teamfight_participation": 67 }
+    ],
+    "red": [
+      { "player_id": "Robin", "hero": "Brody", "kills": 4, "deaths": 5, "assists": 6, "gold": 8197, "damage_dealt": 37677, "teamfight_participation": 71 },
+      { "player_id": "Ægon", "hero": "Angela", "kills": 5, "deaths": 2, "assists": 4, "gold": 9805, "damage_dealt": 58344, "teamfight_participation": 64 }
+    ]
+  }
+}
